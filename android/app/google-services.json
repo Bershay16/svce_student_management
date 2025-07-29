@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271186284163",
+    "project_id": "svce-student-management",
+    "storage_bucket": "svce-student-management.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271186284163:android:2bb7c743158966286915b6",
+        "android_client_info": {
+          "package_name": "com.svce.studentmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOTJwUOv8D4_slhioZm_gT2F4XO0BFyyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
