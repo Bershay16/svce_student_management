@@ -5,15 +5,15 @@
 ### Screenshots
 
 <p align="center">
-  <img src="about.jpg" alt="About Screen" width="200" />&nbsp;
-  <img src="announcements.jpg" alt="Announcements Screen" width="200" />&nbsp;
-  <img src="attendance.jpg" alt="Attendance Screen" width="200" />&nbsp;
-  <img src="bottombar.jpg" alt="Bottom Navigation Bar" width="200" />&nbsp;
-  <img src="fees.jpg" alt="Fees Screen" width="200" />&nbsp;
-  <img src="home.jpg" alt="Home Dashboard" width="200" />&nbsp;
-  <img src="info.jpg" alt="Student Info Screen" width="200" />&nbsp;
-  <img src="navbar.jpg" alt="Navigation Bar" width="200" />&nbsp;
-  <img src="start.jpg" alt="Start Screen" width="200" />
+  <img src="screenshots/about.jpg" alt="About Screen" width="200" />&nbsp;
+  <img src="screenshots/announcements.jpg" alt="Announcements Screen" width="200" />&nbsp;
+  <img src="screenshots/attendance.jpg" alt="Attendance Screen" width="200" />&nbsp;
+  <img src="screenshots/bottombar.jpg" alt="Bottom Navigation Bar" width="200" />&nbsp;
+  <img src="screenshots/fees.jpg" alt="Fees Screen" width="200" />&nbsp;
+  <img src="screenshots/home.jpg" alt="Home Dashboard" width="200" />&nbsp;
+  <img src="screenshots/info.jpg" alt="Student Info Screen" width="200" />&nbsp;
+  <img src="screenshots/navbar.jpg" alt="Navigation Bar" width="200" />&nbsp;
+  <img src="screenshots/start.jpg" alt="Start Screen" width="200" />
 </p>
 
 ---
@@ -78,4 +78,3 @@ For major changes, please open an issue before making a pull request to discuss 
 
 Thank you for your interest in SVCE Hub!  
 Built with 💙 using Flutter and Firebase for enhanced mobile student experience.
-
